@@ -1,2 +1,2 @@
 # LikeVG
-C++ Vector Graphics Engine for Interactive Animation
+C++ VectorGraphicsEngine for Interactive Animation
